@@ -1,0 +1,146 @@
+[
+  {
+    "id": 0,
+    "name": "Black comedy"
+  },
+  {
+    "id": 1,
+    "name": "Computer Animation"
+  },
+  {
+    "id": 2,
+    "name": "Epic film"
+  },
+  {
+    "id": 3,
+    "name": "Documentary film"
+  },
+  {
+    "id": 4,
+    "name": "Art film"
+  },
+  {
+    "id": 5,
+    "name": "Drama"
+  },
+  {
+    "id": 6,
+    "name": "Crime Fiction"
+  },
+  {
+    "id": 7,
+    "name": "Disaster Film"
+  },
+  {
+    "id": 8,
+    "name": "Biographical film"
+  },
+  {
+    "id": 9,
+    "name": "Erotica"
+  },
+  {
+    "id": 10,
+    "name": "Comedy-drama"
+  },
+  {
+    "id": 11,
+    "name": "Bollywood"
+  },
+  {
+    "id": 12,
+    "name": "Comedy"
+  },
+  {
+    "id": 13,
+    "name": "Coming of age"
+  },
+  {
+    "id": 14,
+    "name": "Action Film"
+  },
+  {
+    "id": 15,
+    "name": "Adventure Film"
+  },
+  {
+    "id": 16,
+    "name": "Animation"
+  },
+  {
+    "id": 17,
+    "name": "Buddy film"
+  },
+  {
+    "id": 18,
+    "name": "B movie"
+  },
+  {
+    "id": 19,
+    "name": "Concert film"
+  },
+  {
+    "id": 20,
+    "name": "Ensemble Film"
+  },
+  {
+    "id": 21,
+    "name": "Animated cartoon"
+  },
+  {
+    "id": 22,
+    "name": "Absurdism"
+  },
+  {
+    "id": 23,
+    "name": "Anime"
+  },
+  {
+    "id": 24,
+    "name": "Airplanes and airports"
+  },
+  {
+    "id": 25,
+    "name": "Christmas movie"
+  },
+  {
+    "id": 26,
+    "name": "Chinese Movies"
+  },
+  {
+    "id": 27,
+    "name": "Black-and-white"
+  },
+  {
+    "id": 28,
+    "name": "Crime Drama"
+  },
+  {
+    "id": 29,
+    "name": "Cult film"
+  },
+  {
+    "id": 30,
+    "name": "Docudrama"
+  },
+  {
+    "id": 31,
+    "name": "Action/Adventure"
+  },
+  {
+    "id": 32,
+    "name": "Costume drama"
+  },
+  {
+    "id": 33,
+    "name": "Crime Thriller"
+  },
+  {
+    "id": 34,
+    "name": "Avant-garde"
+  },
+  {
+    "id": 35,
+    "name": "Caper story"
+  }
+]

@@ -1,0 +1,2478 @@
+[
+  {
+    "id": 0,
+    "name": ".45",
+    "directed_by": "Gary Lennon",
+    "initial_release_date": "2006-11-30",
+    "genre_id": 0
+  },
+  {
+    "id": 1,
+    "name": "9",
+    "directed_by": "Shane Acker",
+    "initial_release_date": "2005-04-21",
+    "genre_id": 1
+  },
+  {
+    "id": 2,
+    "name": "300",
+    "directed_by": "Zack Snyder",
+    "initial_release_date": "2006-12-09",
+    "genre_id": 2
+  },
+  {
+    "id": 3,
+    "name": "¿Quién es el señor López?",
+    "directed_by": "Luis Mandoki",
+    "genre_id": 3
+  },
+  {
+    "id": 4,
+    "name": "15 Park Avenue",
+    "directed_by": "Aparna Sen",
+    "initial_release_date": "2005-10-27",
+    "genre_id": 4
+  },
+  {
+    "id": 5,
+    "name": "7G Rainbow Colony",
+    "directed_by": "Selvaraghavan",
+    "initial_release_date": "2004-10-15",
+    "genre_id": 5
+  },
+  {
+    "id": 6,
+    "name": "3-Iron",
+    "directed_by": "Kim Ki-duk",
+    "initial_release_date": "2004-09-07",
+    "genre_id": 6
+  },
+  {
+    "id": 7,
+    "name": "10.5: Apocalypse",
+    "directed_by": "John Lafia",
+    "initial_release_date": "2006-03-18",
+    "genre_id": 7
+  },
+  {
+    "id": 8,
+    "name": "50 Cent: The New Breed",
+    "directed_by": "Don Robinson",
+    "initial_release_date": "2003-04-15",
+    "genre_id": 3
+  },
+  {
+    "id": 9,
+    "name": "24 Hour Party People",
+    "directed_by": "Michael Winterbottom",
+    "initial_release_date": "2002-02-13",
+    "genre_id": 8
+  },
+  {
+    "id": 10,
+    "name": "25th Hour",
+    "directed_by": "Spike Lee",
+    "initial_release_date": "2002-12-16",
+    "genre_id": 6
+  },
+  {
+    "id": 11,
+    "name": "9 Songs",
+    "directed_by": "Michael Winterbottom",
+    "initial_release_date": "2004-05-16",
+    "genre_id": 9
+  },
+  {
+    "id": 12,
+    "name": "28 Days",
+    "directed_by": "Betty Thomas",
+    "initial_release_date": "2000-02-08",
+    "genre_id": 10
+  },
+  {
+    "id": 13,
+    "name": "10.5",
+    "directed_by": "John Lafia",
+    "initial_release_date": "2004-05-02",
+    "genre_id": 7
+  },
+  {
+    "id": 14,
+    "name": "7½ Phere",
+    "directed_by": "Ishaan Trivedi",
+    "initial_release_date": "2005-07-29",
+    "genre_id": 11
+  },
+  {
+    "id": 15,
+    "name": "A Beautiful Mind",
+    "directed_by": "Ron Howard",
+    "initial_release_date": "2001-12-13",
+    "genre_id": 8
+  },
+  {
+    "id": 16,
+    "name": "A League of Ordinary Gentlemen",
+    "directed_by": "Christopher Browne",
+    "initial_release_date": "2006-03-21",
+    "genre_id": 3
+  },
+  {
+    "id": 17,
+    "name": "A Man, a Real One",
+    "directed_by": "Arnaud Larrieu",
+    "initial_release_date": "2003-05-28",
+    "genre_id": 12
+  },
+  {
+    "id": 18,
+    "name": "A Ring of Endless Light",
+    "directed_by": "Greg Beeman",
+    "initial_release_date": "2002-08-23",
+    "genre_id": 5
+  },
+  {
+    "id": 19,
+    "name": "A Short Film About John Bolton",
+    "directed_by": "Neil Gaiman",
+    "genre_id": 3
+  },
+  {
+    "id": 20,
+    "name": "A State of Mind",
+    "directed_by": "Daniel Gordon",
+    "initial_release_date": "2005-08-10",
+    "genre_id": 3
+  },
+  {
+    "id": 21,
+    "name": "A View from Eiffel Tower",
+    "directed_by": "Nikola Vukčević",
+    "genre_id": 5
+  },
+  {
+    "id": 22,
+    "name": "A Walk to Remember",
+    "directed_by": "Adam Shankman",
+    "initial_release_date": "2002-01-23",
+    "genre_id": 13
+  },
+  {
+    "id": 23,
+    "name": "a/k/a Tommy Chong",
+    "directed_by": "Josh Gilbert",
+    "initial_release_date": "2006-06-14",
+    "genre_id": 3
+  },
+  {
+    "id": 24,
+    "name": "Aalvar",
+    "directed_by": "Chella",
+    "initial_release_date": "2007-01-12",
+    "genre_id": 14
+  },
+  {
+    "id": 25,
+    "name": "Abduction: The Megumi Yokota Story",
+    "directed_by": "Patty Kim",
+    "genre_id": 3
+  },
+  {
+    "id": 26,
+    "name": "About Schmidt",
+    "directed_by": "Alexander Payne",
+    "initial_release_date": "2002-05-22",
+    "genre_id": 0
+  },
+  {
+    "id": 27,
+    "name": "Adaptation",
+    "directed_by": "Spike Jonze",
+    "initial_release_date": "2002-12-06",
+    "genre_id": 6
+  },
+  {
+    "id": 28,
+    "name": "Adrenaline Rush",
+    "directed_by": "Marc Fafard",
+    "initial_release_date": "2002-10-18",
+    "genre_id": 3
+  },
+  {
+    "id": 29,
+    "name": "Essential Keys To Better Bowling",
+    "genre_id": 3
+  },
+  {
+    "id": 30,
+    "name": "Adventures Into Digital Comics",
+    "directed_by": "Sébastien Dumesnil",
+    "genre_id": 3
+  },
+  {
+    "id": 31,
+    "name": "Aethirree",
+    "directed_by": "K. S. Ravikumar",
+    "initial_release_date": "2004-04-23",
+    "genre_id": 12
+  },
+  {
+    "id": 32,
+    "name": "After Innocence",
+    "directed_by": "Jessica Sanders",
+    "genre_id": 3
+  },
+  {
+    "id": 33,
+    "name": "After the Sunset",
+    "directed_by": "Brett Ratner",
+    "initial_release_date": "2004-11-10",
+    "genre_id": 6
+  },
+  {
+    "id": 34,
+    "name": "Aftermath",
+    "directed_by": "Thomas Farone",
+    "initial_release_date": "2013-03-01",
+    "genre_id": 6
+  },
+  {
+    "id": 35,
+    "name": "Against the Ropes",
+    "directed_by": "Charles S. Dutton",
+    "initial_release_date": "2004-02-20",
+    "genre_id": 8
+  },
+  {
+    "id": 36,
+    "name": "Agent Cody Banks 2: Destination London",
+    "directed_by": "Kevin Allen",
+    "initial_release_date": "2004-03-12",
+    "genre_id": 15
+  },
+  {
+    "id": 37,
+    "name": "Agent One-Half",
+    "directed_by": "Brian Bero",
+    "genre_id": 12
+  },
+  {
+    "id": 38,
+    "name": "Agnes and His Brothers",
+    "directed_by": "Oskar Roehler",
+    "initial_release_date": "2004-09-05",
+    "genre_id": 5
+  },
+  {
+    "id": 39,
+    "name": "Aileen: Life and Death of a Serial Killer",
+    "directed_by": "Nick Broomfield",
+    "initial_release_date": "2003-05-10",
+    "genre_id": 3
+  },
+  {
+    "id": 40,
+    "name": "Jodhaa Akbar",
+    "directed_by": "Ashutosh Gowariker",
+    "initial_release_date": "2008-02-13",
+    "genre_id": 8
+  },
+  {
+    "id": 41,
+    "name": "Akeelah and the Bee",
+    "directed_by": "Doug Atchison",
+    "initial_release_date": "2006-03-16",
+    "genre_id": 5
+  },
+  {
+    "id": 42,
+    "name": "Ali",
+    "directed_by": "Michael Mann",
+    "initial_release_date": "2001-12-11",
+    "genre_id": 8
+  },
+  {
+    "id": 43,
+    "name": "Aliens of the Deep",
+    "directed_by": "James Cameron",
+    "initial_release_date": "2005-01-28",
+    "genre_id": 3
+  },
+  {
+    "id": 44,
+    "name": "All About Lily Chou-Chou",
+    "directed_by": "Shunji Iwai",
+    "initial_release_date": "2001-09-07",
+    "genre_id": 6
+  },
+  {
+    "id": 45,
+    "name": "All About the Benjamins",
+    "directed_by": "Kevin Bray",
+    "initial_release_date": "2002-03-08",
+    "genre_id": 14
+  },
+  {
+    "id": 46,
+    "name": "Allari Bullodu",
+    "directed_by": "Kovelamudi Raghavendra Rao",
+    "genre_id": 12
+  },
+  {
+    "id": 47,
+    "name": "Allari Pidugu",
+    "directed_by": "Jayant Paranji",
+    "initial_release_date": "2005-10-05",
+    "genre_id": 5
+  },
+  {
+    "id": 48,
+    "name": "Alles auf Zucker!",
+    "directed_by": "Dani Levy",
+    "initial_release_date": "2004-12-31",
+    "genre_id": 12
+  },
+  {
+    "id": 49,
+    "name": "Alone and Restless",
+    "directed_by": "Michael Thomas Dunn",
+    "genre_id": 5
+  },
+  {
+    "id": 50,
+    "name": "Alpha Dog",
+    "directed_by": "Nick Cassavetes",
+    "initial_release_date": "2006-01-27",
+    "genre_id": 6
+  },
+  {
+    "id": 51,
+    "name": "America: Freedom to Fascism",
+    "directed_by": "Aaron Russo",
+    "initial_release_date": "2006-07-28",
+    "genre_id": 3
+  },
+  {
+    "id": 52,
+    "name": "American Cowslip",
+    "directed_by": "Mark David",
+    "initial_release_date": "2009-07-24",
+    "genre_id": 0
+  },
+  {
+    "id": 53,
+    "name": "American Gangster",
+    "directed_by": "Ridley Scott",
+    "initial_release_date": "2007-10-19",
+    "genre_id": 6
+  },
+  {
+    "id": 54,
+    "name": "American Pie Presents: The Naked Mile",
+    "directed_by": "Joe Nussbaum",
+    "initial_release_date": "2006-12-07",
+    "genre_id": 12
+  },
+  {
+    "id": 55,
+    "name": "American Pie Presents: Band Camp",
+    "directed_by": "Steve Rash",
+    "initial_release_date": "2005-10-31",
+    "genre_id": 12
+  },
+  {
+    "id": 56,
+    "name": "American Psycho",
+    "directed_by": "Mary Harron",
+    "initial_release_date": "2000-01-21",
+    "genre_id": 0
+  },
+  {
+    "id": 57,
+    "name": "Amrutham",
+    "directed_by": "Sibi Malayil",
+    "initial_release_date": "2004-12-24",
+    "genre_id": 5
+  },
+  {
+    "id": 58,
+    "name": "An American Crime",
+    "directed_by": "Tommy O'Haver",
+    "initial_release_date": "2007-01-19",
+    "genre_id": 6
+  },
+  {
+    "id": 59,
+    "name": "An Evening with Kevin Smith",
+    "directed_by": "J.M. Kenny",
+    "genre_id": 3
+  },
+  {
+    "id": 60,
+    "name": "An Evening with Kevin Smith 2: Evening Harder",
+    "directed_by": "J.M. Kenny",
+    "genre_id": 3
+  },
+  {
+    "id": 61,
+    "name": "An Everlasting Piece",
+    "directed_by": "Barry Levinson",
+    "initial_release_date": "2000-12-25",
+    "genre_id": 12
+  },
+  {
+    "id": 62,
+    "name": "An Extremely Goofy Movie",
+    "directed_by": "Ian Harrowell",
+    "initial_release_date": "2000-02-29",
+    "genre_id": 16
+  },
+  {
+    "id": 63,
+    "name": "An Inconvenient Truth",
+    "directed_by": "Davis Guggenheim",
+    "initial_release_date": "2006-01-24",
+    "genre_id": 3
+  },
+  {
+    "id": 64,
+    "name": "Analyze That",
+    "directed_by": "Harold Ramis",
+    "initial_release_date": "2002-12-06",
+    "genre_id": 17
+  },
+  {
+    "id": 65,
+    "name": "Anchorman: The Legend of Ron Burgundy",
+    "directed_by": "Adam McKay",
+    "initial_release_date": "2004-06-28",
+    "genre_id": 12
+  },
+  {
+    "id": 66,
+    "name": "Andarivaadu",
+    "directed_by": "Srinu Vaitla",
+    "initial_release_date": "2005-06-03",
+    "genre_id": 12
+  },
+  {
+    "id": 67,
+    "name": "Andhrawala",
+    "directed_by": "Puri Jagannadh",
+    "initial_release_date": "2004-01-01",
+    "genre_id": 15
+  },
+  {
+    "id": 68,
+    "name": "Ang Tanging Ina",
+    "directed_by": "Wenn V. Deramas",
+    "initial_release_date": "2003-05-28",
+    "genre_id": 12
+  },
+  {
+    "id": 69,
+    "name": "Anger Management",
+    "directed_by": "Peter Segal",
+    "initial_release_date": "2003-03-05",
+    "genre_id": 0
+  },
+  {
+    "id": 70,
+    "name": "Animal Factory",
+    "directed_by": "Steve Buscemi",
+    "initial_release_date": "2000-10-22",
+    "genre_id": 6
+  },
+  {
+    "id": 71,
+    "name": "Anus Magillicutty",
+    "directed_by": "Morey Fineburgh",
+    "initial_release_date": "2003-04-15",
+    "genre_id": 18
+  },
+  {
+    "id": 72,
+    "name": "Any Way the Wind Blows",
+    "directed_by": "Tom Barman",
+    "initial_release_date": "2003-05-17",
+    "genre_id": 10
+  },
+  {
+    "id": 73,
+    "name": "Apocalypto",
+    "directed_by": "Mel Gibson",
+    "initial_release_date": "2006-12-08",
+    "genre_id": 14
+  },
+  {
+    "id": 74,
+    "name": "Aquamarine",
+    "directed_by": "Elizabeth Allen Rosenbaum",
+    "initial_release_date": "2006-02-26",
+    "genre_id": 13
+  },
+  {
+    "id": 75,
+    "name": "Arahan",
+    "directed_by": "Ryoo Seung-wan",
+    "initial_release_date": "2004-04-30",
+    "genre_id": 14
+  },
+  {
+    "id": 76,
+    "name": "Arinthum Ariyamalum",
+    "directed_by": "Vishnuvardhan",
+    "initial_release_date": "2005-05-20",
+    "genre_id": 6
+  },
+  {
+    "id": 77,
+    "name": "Arisan!",
+    "directed_by": "Nia Dinata",
+    "initial_release_date": "2003-12-10",
+    "genre_id": 12
+  },
+  {
+    "id": 78,
+    "name": "Arjun",
+    "directed_by": "Gunasekhar",
+    "initial_release_date": "2004-08-18",
+    "genre_id": 14
+  },
+  {
+    "id": 79,
+    "name": "Around the World in 80 Days",
+    "directed_by": "Frank Coraci",
+    "initial_release_date": "2004-06-13",
+    "genre_id": 15
+  },
+  {
+    "id": 80,
+    "name": "Art School Confidential",
+    "directed_by": "Terry Zwigoff",
+    "genre_id": 10
+  },
+  {
+    "id": 81,
+    "name": "Aryan: Unbreakable",
+    "directed_by": "Abhishek Kapoor",
+    "initial_release_date": "2006-12-05",
+    "genre_id": 14
+  },
+  {
+    "id": 82,
+    "name": "Ashok",
+    "directed_by": "Surender Reddy",
+    "initial_release_date": "2006-07-13",
+    "genre_id": 14
+  },
+  {
+    "id": 83,
+    "name": "Ashoka the Great",
+    "directed_by": "Santosh Sivan",
+    "initial_release_date": "2001-09-13",
+    "genre_id": 14
+  },
+  {
+    "id": 84,
+    "name": "Astitva",
+    "directed_by": "Mahesh Manjrekar",
+    "initial_release_date": "2000-10-06",
+    "genre_id": 4
+  },
+  {
+    "id": 85,
+    "name": "Athadu",
+    "directed_by": "Trivikram Srinivas",
+    "initial_release_date": "2005-08-10",
+    "genre_id": 14
+  },
+  {
+    "id": 86,
+    "name": "ATL",
+    "directed_by": "Chris Robinson",
+    "initial_release_date": "2006-03-28",
+    "genre_id": 13
+  },
+  {
+    "id": 87,
+    "name": "Atlantis: The Lost Empire",
+    "directed_by": "Gary Trousdale",
+    "initial_release_date": "2001-06-03",
+    "genre_id": 15
+  },
+  {
+    "id": 88,
+    "name": "Attahasam",
+    "directed_by": "Saran",
+    "initial_release_date": "2004-11-12",
+    "genre_id": 14
+  },
+  {
+    "id": 89,
+    "name": "Attila",
+    "directed_by": "Dick Lowry",
+    "genre_id": 15
+  },
+  {
+    "id": 90,
+    "name": "Austin Powers: Goldmember",
+    "directed_by": "Jay Roach",
+    "initial_release_date": "2002-07-22",
+    "genre_id": 14
+  },
+  {
+    "id": 91,
+    "name": "Australian Rules",
+    "directed_by": "Paul Goldman",
+    "genre_id": 5
+  },
+  {
+    "id": 92,
+    "name": "Oram Po",
+    "directed_by": "Pushkar",
+    "initial_release_date": "2007-02-16",
+    "genre_id": 14
+  },
+  {
+    "id": 93,
+    "name": "Auto Focus",
+    "directed_by": "Paul Schrader",
+    "initial_release_date": "2002-09-08",
+    "genre_id": 8
+  },
+  {
+    "id": 94,
+    "name": "Avenging Angelo",
+    "directed_by": "Martyn Burke",
+    "initial_release_date": "2002-08-30",
+    "genre_id": 14
+  },
+  {
+    "id": 95,
+    "name": "Awara Paagal Deewana",
+    "directed_by": "Vikram Bhatt",
+    "initial_release_date": "2002-06-20",
+    "genre_id": 14
+  },
+  {
+    "id": 96,
+    "name": "Awesome; I Fuckin' Shot That!",
+    "directed_by": "Adam Yauch",
+    "initial_release_date": "2006-01-06",
+    "genre_id": 19
+  },
+  {
+    "id": 97,
+    "name": "Azumi",
+    "directed_by": "Ryuhei Kitamura",
+    "initial_release_date": "2003-05-10",
+    "genre_id": 14
+  },
+  {
+    "id": 98,
+    "name": "Baby Boy",
+    "directed_by": "John Singleton",
+    "initial_release_date": "2001-06-21",
+    "genre_id": 13
+  },
+  {
+    "id": 99,
+    "name": "Bad Boys II",
+    "directed_by": "Michael Bay",
+    "initial_release_date": "2003-07-09",
+    "genre_id": 14
+  },
+  {
+    "id": 100,
+    "name": "Bad Eggs",
+    "directed_by": "Tony Martin",
+    "genre_id": 12
+  },
+  {
+    "id": 101,
+    "name": "Bad Santa",
+    "directed_by": "Terry Zwigoff",
+    "initial_release_date": "2003-11-26",
+    "genre_id": 0
+  },
+  {
+    "id": 102,
+    "name": "Baghdad ER",
+    "directed_by": "Jon Alpert",
+    "initial_release_date": "2006-08-29",
+    "genre_id": 3
+  },
+  {
+    "id": 103,
+    "name": "Baise Moi",
+    "directed_by": "Virginie Despentes",
+    "initial_release_date": "2000-06-28",
+    "genre_id": 9
+  },
+  {
+    "id": 104,
+    "name": "Bala",
+    "directed_by": "Deepak",
+    "initial_release_date": "2002-12-13",
+    "genre_id": 5
+  },
+  {
+    "id": 105,
+    "name": "Bambi II",
+    "directed_by": "Brian Pimental",
+    "initial_release_date": "2006-01-26",
+    "genre_id": 16
+  },
+  {
+    "id": 106,
+    "name": "Bangaram",
+    "directed_by": "Dharani",
+    "initial_release_date": "2006-05-03",
+    "genre_id": 14
+  },
+  {
+    "id": 107,
+    "name": "Barbershop",
+    "directed_by": "Tim Story",
+    "initial_release_date": "2002-08-07",
+    "genre_id": 20
+  },
+  {
+    "id": 108,
+    "name": "Basic emotions",
+    "directed_by": "Thomas Moon",
+    "initial_release_date": "2004-09-09",
+    "genre_id": 5
+  },
+  {
+    "id": 109,
+    "name": "Battle In Heaven",
+    "directed_by": "Carlos Reygadas",
+    "initial_release_date": "2005-05-15",
+    "genre_id": 5
+  },
+  {
+    "id": 110,
+    "name": "Batman Begins",
+    "directed_by": "Christopher Nolan",
+    "initial_release_date": "2005-06-10",
+    "genre_id": 14
+  },
+  {
+    "id": 111,
+    "name": "Batman: Mystery of the Batwoman",
+    "directed_by": "Curt Geda",
+    "initial_release_date": "2003-10-21",
+    "genre_id": 21
+  },
+  {
+    "id": 112,
+    "name": "BBS: The Documentary",
+    "directed_by": "Jason Scott Sadofsky",
+    "genre_id": 3
+  },
+  {
+    "id": 113,
+    "name": "Be Cool",
+    "directed_by": "F. Gary Gray",
+    "initial_release_date": "2005-03-04",
+    "genre_id": 6
+  },
+  {
+    "id": 114,
+    "name": "Beah: A Black Woman Speaks",
+    "directed_by": "Lisa Gay Hamilton",
+    "initial_release_date": "2003-08-22",
+    "genre_id": 3
+  },
+  {
+    "id": 115,
+    "name": "Beauty Shop",
+    "directed_by": "Bille Woodruff",
+    "initial_release_date": "2005-03-24",
+    "genre_id": 12
+  },
+  {
+    "id": 116,
+    "name": "Beerfest",
+    "directed_by": "Jay Chandrasekhar",
+    "initial_release_date": "2006-08-25",
+    "genre_id": 22
+  },
+  {
+    "id": 117,
+    "name": "Behind the Mask",
+    "directed_by": "Shannon Keith",
+    "initial_release_date": "2006-03-21",
+    "genre_id": 3
+  },
+  {
+    "id": 118,
+    "name": "Behind the Sun",
+    "directed_by": "Walter Salles",
+    "initial_release_date": "2001-09-06",
+    "genre_id": 5
+  },
+  {
+    "id": 119,
+    "name": "Bekhal's Tears",
+    "directed_by": "Lauand Omar",
+    "genre_id": 5
+  },
+  {
+    "id": 120,
+    "name": "Belly of the Beast",
+    "directed_by": "Ching Siu-tung",
+    "initial_release_date": "2003-12-30",
+    "genre_id": 14
+  },
+  {
+    "id": 121,
+    "name": "Bend It Like Beckham",
+    "directed_by": "Gurinder Chadha",
+    "initial_release_date": "2002-04-11",
+    "genre_id": 13
+  },
+  {
+    "id": 122,
+    "name": "Beowulf",
+    "directed_by": "Robert Zemeckis",
+    "initial_release_date": "2007-11-05",
+    "genre_id": 15
+  },
+  {
+    "id": 123,
+    "name": "Beowulf &amp; Grendel",
+    "directed_by": "Sturla Gunnarsson",
+    "initial_release_date": "2005-09-14",
+    "genre_id": 15
+  },
+  {
+    "id": 124,
+    "name": "Best in Show",
+    "directed_by": "Christopher Guest",
+    "initial_release_date": "2000-09-08",
+    "genre_id": 12
+  },
+  {
+    "id": 125,
+    "name": "Better Luck Tomorrow",
+    "directed_by": "Justin Lin",
+    "initial_release_date": "2003-04-11",
+    "genre_id": 13
+  },
+  {
+    "id": 126,
+    "name": "Bettie Page: Dark Angel",
+    "directed_by": "Nico B.",
+    "initial_release_date": "2004-02-11",
+    "genre_id": 8
+  },
+  {
+    "id": 127,
+    "name": "Beyond Borders",
+    "directed_by": "Martin Campbell",
+    "initial_release_date": "2003-10-24",
+    "genre_id": 15
+  },
+  {
+    "id": 128,
+    "name": "Bhadra",
+    "directed_by": "Boyapati Srinu",
+    "initial_release_date": "2005-05-12",
+    "genre_id": 14
+  },
+  {
+    "id": 129,
+    "name": "Bhageeratha",
+    "directed_by": "Rasool Ellore",
+    "initial_release_date": "2005-10-13",
+    "genre_id": 5
+  },
+  {
+    "id": 130,
+    "name": "Bheemaa",
+    "directed_by": "N. Lingusamy",
+    "initial_release_date": "2008-01-14",
+    "genre_id": 14
+  },
+  {
+    "id": 131,
+    "name": "Big Man, Little Love",
+    "directed_by": "Handan İpekçi",
+    "initial_release_date": "2001-10-19",
+    "genre_id": 5
+  },
+  {
+    "id": 132,
+    "name": "Big Momma's House",
+    "directed_by": "Raja Gosnell",
+    "initial_release_date": "2000-05-31",
+    "genre_id": 14
+  },
+  {
+    "id": 133,
+    "name": "Big Momma's House 2",
+    "directed_by": "John Whitesell",
+    "initial_release_date": "2006-01-26",
+    "genre_id": 6
+  },
+  {
+    "id": 134,
+    "name": "Big Trouble",
+    "directed_by": "Barry Sonnenfeld",
+    "initial_release_date": "2002-04-05",
+    "genre_id": 6
+  },
+  {
+    "id": 135,
+    "name": "Biggie &amp; Tupac",
+    "directed_by": "Nick Broomfield",
+    "initial_release_date": "2002-01-11",
+    "genre_id": 3
+  },
+  {
+    "id": 136,
+    "name": "Billy Elliot",
+    "directed_by": "Stephen Daldry",
+    "initial_release_date": "2000-05-19",
+    "genre_id": 12
+  },
+  {
+    "id": 137,
+    "name": "Birthday Girl",
+    "directed_by": "Jez Butterworth",
+    "initial_release_date": "2002-02-01",
+    "genre_id": 0
+  },
+  {
+    "id": 138,
+    "name": "Bite Me, Fanboy",
+    "directed_by": "Mat Nastos",
+    "initial_release_date": "2005-06-01",
+    "genre_id": 12
+  },
+  {
+    "id": 139,
+    "name": "Black Friday",
+    "directed_by": "Anurag Kashyap",
+    "initial_release_date": "2004-05-20",
+    "genre_id": 6
+  },
+  {
+    "id": 140,
+    "name": "Bleach: Memories of Nobody",
+    "directed_by": "Noriyuki Abe",
+    "initial_release_date": "2006-12-16",
+    "genre_id": 23
+  },
+  {
+    "id": 141,
+    "name": "Blind Shaft",
+    "directed_by": "Li Yang",
+    "initial_release_date": "2003-02-12",
+    "genre_id": 6
+  },
+  {
+    "id": 142,
+    "name": "Blissfully Yours",
+    "directed_by": "Apichatpong Weerasethakul",
+    "initial_release_date": "2002-05-17",
+    "genre_id": 9
+  },
+  {
+    "id": 143,
+    "name": "Blood of a Champion",
+    "directed_by": "Lawrence Page",
+    "initial_release_date": "2006-03-07",
+    "genre_id": 6
+  },
+  {
+    "id": 144,
+    "name": "Bloodsport - ECW's Most Violent Matches",
+    "initial_release_date": "2006-02-07",
+    "genre_id": 3
+  },
+  {
+    "id": 145,
+    "name": "Blow",
+    "directed_by": "Ted Demme",
+    "initial_release_date": "2001-03-29",
+    "genre_id": 8
+  },
+  {
+    "id": 146,
+    "name": "Blue Collar Comedy Tour Rides Again",
+    "directed_by": "C. B. Harding",
+    "initial_release_date": "2004-12-05",
+    "genre_id": 3
+  },
+  {
+    "id": 147,
+    "name": "Boiler Room",
+    "directed_by": "Ben Younger",
+    "initial_release_date": "2000-01-30",
+    "genre_id": 6
+  },
+  {
+    "id": 148,
+    "name": "Bollywood/Hollywood",
+    "directed_by": "Deepa Mehta",
+    "initial_release_date": "2002-10-25",
+    "genre_id": 11
+  },
+  {
+    "id": 149,
+    "name": "Bomb the System",
+    "directed_by": "Adam Bhala Lough",
+    "genre_id": 6
+  },
+  {
+    "id": 150,
+    "name": "Bon Cop, Bad Cop",
+    "directed_by": "Eric Canuel",
+    "genre_id": 6
+  },
+  {
+    "id": 151,
+    "name": "Boogiepop and Others",
+    "directed_by": "Ryu Kaneda",
+    "initial_release_date": "2000-03-11",
+    "genre_id": 16
+  },
+  {
+    "id": 152,
+    "name": "Bimmer",
+    "directed_by": "Pyotr Buslov",
+    "initial_release_date": "2003-08-02",
+    "genre_id": 6
+  },
+  {
+    "id": 153,
+    "name": "Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan",
+    "directed_by": "Larry Charles",
+    "initial_release_date": "2006-08-04",
+    "genre_id": 12
+  },
+  {
+    "id": 154,
+    "name": "Born into Brothels: Calcutta's Red Light Kids",
+    "directed_by": "Zana Briski",
+    "initial_release_date": "2004-01-17",
+    "genre_id": 3
+  },
+  {
+    "id": 155,
+    "name": "Bowling Fun And Fundamentals For Boys And Girls",
+    "genre_id": 3
+  },
+  {
+    "id": 156,
+    "name": "Bring It On",
+    "directed_by": "Peyton Reed",
+    "initial_release_date": "2000-08-22",
+    "genre_id": 12
+  },
+  {
+    "id": 157,
+    "name": "Broadway: The Golden Age",
+    "directed_by": "Rick McKay",
+    "initial_release_date": "2004-06-11",
+    "genre_id": 3
+  },
+  {
+    "id": 158,
+    "name": "Brother 2",
+    "directed_by": "Aleksei Balabanov",
+    "initial_release_date": "2000-05-11",
+    "genre_id": 6
+  },
+  {
+    "id": 159,
+    "name": "Bruce Almighty",
+    "directed_by": "Tom Shadyac",
+    "initial_release_date": "2003-05-23",
+    "genre_id": 12
+  },
+  {
+    "id": 160,
+    "name": "Bubble",
+    "directed_by": "Steven Soderbergh",
+    "initial_release_date": "2005-09-03",
+    "genre_id": 6
+  },
+  {
+    "id": 161,
+    "name": "Bus 174",
+    "directed_by": "José Padilha",
+    "initial_release_date": "2002-10-22",
+    "genre_id": 3
+  },
+  {
+    "id": 162,
+    "name": "Bus Conductor",
+    "directed_by": "V. M. Vinu",
+    "initial_release_date": "2005-12-23",
+    "genre_id": 12
+  },
+  {
+    "id": 163,
+    "name": "C.I.D.Moosa",
+    "directed_by": "Johny Antony",
+    "initial_release_date": "2003-07-04",
+    "genre_id": 14
+  },
+  {
+    "id": 164,
+    "name": "Cabaret Paradis",
+    "directed_by": "Corinne Benizio",
+    "initial_release_date": "2006-04-12",
+    "genre_id": 12
+  },
+  {
+    "id": 165,
+    "name": "Cactuses",
+    "directed_by": "Matt Hannon",
+    "initial_release_date": "2006-03-15",
+    "genre_id": 5
+  },
+  {
+    "id": 166,
+    "name": "Capote",
+    "directed_by": "Bennett Miller",
+    "initial_release_date": "2005-09-02",
+    "genre_id": 6
+  },
+  {
+    "id": 167,
+    "name": "Capturing the Friedmans",
+    "directed_by": "Andrew Jarecki",
+    "initial_release_date": "2003-01-17",
+    "genre_id": 3
+  },
+  {
+    "id": 168,
+    "name": "Cars",
+    "directed_by": "John Lasseter",
+    "initial_release_date": "2006-03-14",
+    "genre_id": 16
+  },
+  {
+    "id": 169,
+    "name": "Cast Away",
+    "directed_by": "Robert Zemeckis",
+    "initial_release_date": "2000-12-07",
+    "genre_id": 24
+  },
+  {
+    "id": 170,
+    "name": "Castlevania",
+    "directed_by": "Paul W. S. Anderson",
+    "genre_id": 14
+  },
+  {
+    "id": 171,
+    "name": "Catch Me If You Can",
+    "directed_by": "Steven Spielberg",
+    "initial_release_date": "2002-12-16",
+    "genre_id": 6
+  },
+  {
+    "id": 172,
+    "name": "Caterina in the Big City",
+    "directed_by": "Paolo Virzì",
+    "initial_release_date": "2003-10-24",
+    "genre_id": 12
+  },
+  {
+    "id": 173,
+    "name": "Cats &amp; Dogs",
+    "directed_by": "Lawrence Guterman",
+    "initial_release_date": "2001-07-04",
+    "genre_id": 15
+  },
+  {
+    "id": 174,
+    "name": "Catwoman",
+    "directed_by": "Pitof",
+    "initial_release_date": "2004-07-19",
+    "genre_id": 14
+  },
+  {
+    "id": 175,
+    "name": "Chai Lai",
+    "directed_by": "Poj Arnon",
+    "initial_release_date": "2006-01-26",
+    "genre_id": 14
+  },
+  {
+    "id": 176,
+    "name": "Chain",
+    "directed_by": "Jem Cohen",
+    "genre_id": 3
+  },
+  {
+    "id": 177,
+    "name": "Challenger",
+    "directed_by": "Philip Kaufman",
+    "genre_id": 5
+  },
+  {
+    "id": 178,
+    "name": "Chandni Bar",
+    "directed_by": "Madhur Bhandarkar",
+    "initial_release_date": "2001-09-28",
+    "genre_id": 6
+  },
+  {
+    "id": 179,
+    "name": "Charlie's Angels",
+    "directed_by": "Joseph McGinty Nichol",
+    "initial_release_date": "2000-10-22",
+    "genre_id": 14
+  },
+  {
+    "id": 180,
+    "name": "Charlotte's Web",
+    "directed_by": "Gary Winick",
+    "initial_release_date": "2006-12-07",
+    "genre_id": 16
+  },
+  {
+    "id": 181,
+    "name": "Chasing the Horizon",
+    "directed_by": "Markus Canter",
+    "initial_release_date": "2006-04-26",
+    "genre_id": 3
+  },
+  {
+    "id": 182,
+    "name": "Chathikkatha Chanthu",
+    "directed_by": "Meccartin",
+    "initial_release_date": "2004-04-14",
+    "genre_id": 12
+  },
+  {
+    "id": 183,
+    "name": "Chhatrapati",
+    "directed_by": "S. S. Rajamouli",
+    "initial_release_date": "2005-09-25",
+    "genre_id": 14
+  },
+  {
+    "id": 184,
+    "name": "Checking Out",
+    "directed_by": "Jeff Hare",
+    "initial_release_date": "2005-04-10",
+    "genre_id": 0
+  },
+  {
+    "id": 185,
+    "name": "Chess",
+    "directed_by": "RajBabu",
+    "initial_release_date": "2006-07-07",
+    "genre_id": 6
+  },
+  {
+    "id": 186,
+    "name": "Chicken Little",
+    "directed_by": "Mark Dindal",
+    "initial_release_date": "2005-10-30",
+    "genre_id": 16
+  },
+  {
+    "id": 187,
+    "name": "Child Marriage",
+    "directed_by": "Neeraj Kumar",
+    "genre_id": 3
+  },
+  {
+    "id": 188,
+    "name": "Choose Your Own Adventure The Abominable Snowman",
+    "directed_by": "Bob Doucette",
+    "initial_release_date": "2006-07-25",
+    "genre_id": 15
+  },
+  {
+    "id": 189,
+    "name": "Chopin: Desire for Love",
+    "directed_by": "Jerzy Antczak",
+    "initial_release_date": "2002-03-01",
+    "genre_id": 8
+  },
+  {
+    "id": 190,
+    "name": "Chopper",
+    "directed_by": "Andrew Dominik",
+    "initial_release_date": "2000-08-03",
+    "genre_id": 8
+  },
+  {
+    "id": 191,
+    "name": "Christmas with the Kranks",
+    "directed_by": "Joe Roth",
+    "initial_release_date": "2004-11-24",
+    "genre_id": 25
+  },
+  {
+    "id": 192,
+    "name": "Chukkallo Chandrudu",
+    "directed_by": "Siva Kumar",
+    "initial_release_date": "2006-01-14",
+    "genre_id": 12
+  },
+  {
+    "id": 193,
+    "name": "Cinderella Man",
+    "directed_by": "Ron Howard",
+    "initial_release_date": "2005-05-23",
+    "genre_id": 8
+  },
+  {
+    "id": 194,
+    "name": "Cinemania",
+    "directed_by": "Angela Christlieb",
+    "genre_id": 3
+  },
+  {
+    "id": 195,
+    "name": "City of God",
+    "directed_by": "Fernando Meirelles",
+    "initial_release_date": "2002-05-18",
+    "genre_id": 6
+  },
+  {
+    "id": 196,
+    "name": "Clear Cut: The Story of Philomath, Oregon",
+    "directed_by": "Peter Richardson",
+    "initial_release_date": "2006-01-20",
+    "genre_id": 3
+  },
+  {
+    "id": 197,
+    "name": "Clerks II",
+    "directed_by": "Kevin Smith",
+    "initial_release_date": "2006-05-26",
+    "genre_id": 17
+  },
+  {
+    "id": 198,
+    "name": "Click",
+    "directed_by": "Frank Coraci",
+    "initial_release_date": "2006-06-22",
+    "genre_id": 12
+  },
+  {
+    "id": 199,
+    "name": "Coach Carter",
+    "directed_by": "Thomas Carter",
+    "initial_release_date": "2005-01-13",
+    "genre_id": 13
+  },
+  {
+    "id": 200,
+    "name": "The Coast Guard",
+    "directed_by": "Kim Ki-duk",
+    "initial_release_date": "2002-11-14",
+    "genre_id": 14
+  },
+  {
+    "id": 201,
+    "name": "Cold Showers",
+    "directed_by": "Antony Cordier",
+    "initial_release_date": "2005-05-22",
+    "genre_id": 13
+  },
+  {
+    "id": 202,
+    "name": "Collateral Damage",
+    "directed_by": "Andrew Davis",
+    "initial_release_date": "2002-02-04",
+    "genre_id": 14
+  },
+  {
+    "id": 203,
+    "name": "Coming Out",
+    "directed_by": "Joel Zwick",
+    "genre_id": 12
+  },
+  {
+    "id": 204,
+    "name": "Confessions of a Dangerous Mind",
+    "directed_by": "George Clooney",
+    "genre_id": 8
+  },
+  {
+    "id": 205,
+    "name": "Control Room",
+    "directed_by": "Jehane Noujaim",
+    "genre_id": 3
+  },
+  {
+    "id": 206,
+    "name": "Control",
+    "directed_by": "Anton Corbijn",
+    "initial_release_date": "2007-05-17",
+    "genre_id": 8
+  },
+  {
+    "id": 207,
+    "name": "Copying Beethoven",
+    "directed_by": "Agnieszka Holland",
+    "initial_release_date": "2006-07-30",
+    "genre_id": 8
+  },
+  {
+    "id": 208,
+    "name": "Corporate",
+    "directed_by": "Madhur Bhandarkar",
+    "initial_release_date": "2006-07-07",
+    "genre_id": 5
+  },
+  {
+    "id": 209,
+    "name": "Cowboy Bebop: The Movie",
+    "directed_by": "Shinichirō Watanabe",
+    "initial_release_date": "2001-09-01",
+    "genre_id": 23
+  },
+  {
+    "id": 210,
+    "name": "Crackerjack",
+    "directed_by": "Paul Moloney",
+    "initial_release_date": "2002-11-07",
+    "genre_id": 12
+  },
+  {
+    "id": 211,
+    "name": "Crash",
+    "directed_by": "Paul Haggis",
+    "initial_release_date": "2004-09-10",
+    "genre_id": 6
+  },
+  {
+    "id": 212,
+    "name": "Crimson Rivers II: Angels of the Apocalypse",
+    "directed_by": "Olivier Dahan",
+    "initial_release_date": "2004-02-18",
+    "genre_id": 14
+  },
+  {
+    "id": 213,
+    "name": "Crocodile Dundee in Los Angeles",
+    "directed_by": "Simon Wincer",
+    "initial_release_date": "2001-04-12",
+    "genre_id": 14
+  },
+  {
+    "id": 214,
+    "name": "Crossover",
+    "directed_by": "Preston A. Whitmore II",
+    "initial_release_date": "2006-09-01",
+    "genre_id": 14
+  },
+  {
+    "id": 215,
+    "name": "Crossroads",
+    "directed_by": "Tamra Davis",
+    "initial_release_date": "2002-02-11",
+    "genre_id": 13
+  },
+  {
+    "id": 216,
+    "name": "Cruel Intentions 3",
+    "directed_by": "Scott Ziehl",
+    "initial_release_date": "2004-05-25",
+    "genre_id": 9
+  },
+  {
+    "id": 217,
+    "name": "Curious George",
+    "directed_by": "Matthew O'Callaghan",
+    "initial_release_date": "2006-02-10",
+    "genre_id": 16
+  },
+  {
+    "id": 218,
+    "name": "Daisy",
+    "directed_by": "Andrew Lau",
+    "initial_release_date": "2006-03-09",
+    "genre_id": 26
+  },
+  {
+    "id": 219,
+    "name": "Daivanamathil",
+    "directed_by": "Jayaraj",
+    "genre_id": 5
+  },
+  {
+    "id": 220,
+    "name": "Daltry Calhoun",
+    "directed_by": "Katrina Holden Bronson",
+    "initial_release_date": "2005-09-25",
+    "genre_id": 0
+  },
+  {
+    "id": 221,
+    "name": "Daredevil",
+    "directed_by": "Mark Steven Johnson",
+    "initial_release_date": "2003-02-09",
+    "genre_id": 14
+  },
+  {
+    "id": 222,
+    "name": "Dark Blue",
+    "directed_by": "Ron Shelton",
+    "initial_release_date": "2002-12-14",
+    "genre_id": 14
+  },
+  {
+    "id": 223,
+    "name": "Darwin's Nightmare",
+    "directed_by": "Hubert Sauper",
+    "initial_release_date": "2004-09-01",
+    "genre_id": 3
+  },
+  {
+    "id": 224,
+    "name": "Dave Chappelle's Block Party",
+    "directed_by": "Michel Gondry",
+    "initial_release_date": "2006-03-03",
+    "genre_id": 3
+  },
+  {
+    "id": 225,
+    "name": "Death in Gaza",
+    "directed_by": "James Miller",
+    "initial_release_date": "2004-02-11",
+    "genre_id": 3
+  },
+  {
+    "id": 226,
+    "name": "Death to Smoochy",
+    "directed_by": "Danny DeVito",
+    "initial_release_date": "2002-03-29",
+    "genre_id": 12
+  },
+  {
+    "id": 227,
+    "name": "Death Trance",
+    "directed_by": "Yuji Shimomura",
+    "initial_release_date": "2005-05-12",
+    "genre_id": 14
+  },
+  {
+    "id": 228,
+    "name": "December Boys",
+    "directed_by": "Rod Hardy",
+    "genre_id": 13
+  },
+  {
+    "id": 229,
+    "name": "Dev",
+    "directed_by": "Govind Nihalani",
+    "initial_release_date": "2004-06-11",
+    "genre_id": 5
+  },
+  {
+    "id": 230,
+    "name": "Devil's Playground",
+    "directed_by": "Lucy Walker",
+    "initial_release_date": "2003-02-04",
+    "genre_id": 3
+  },
+  {
+    "id": 231,
+    "name": "Dhoom 2",
+    "directed_by": "Sanjay Gadhvi",
+    "initial_release_date": "2006-11-23",
+    "genre_id": 6
+  },
+  {
+    "id": 232,
+    "name": "Dhyaas Parva",
+    "directed_by": "Amol Palekar",
+    "genre_id": 8
+  },
+  {
+    "id": 233,
+    "name": "Diary of a Mad Black Woman",
+    "directed_by": "Darren Grant",
+    "initial_release_date": "2005-02-25",
+    "genre_id": 10
+  },
+  {
+    "id": 234,
+    "name": "Die Bad",
+    "directed_by": "Ryoo Seung-wan",
+    "initial_release_date": "2000-07-15",
+    "genre_id": 6
+  },
+  {
+    "id": 235,
+    "name": "Die Mommie Die!",
+    "directed_by": "Mark Rucker",
+    "initial_release_date": "2003-01-20",
+    "genre_id": 12
+  },
+  {
+    "id": 236,
+    "name": "Digimon: The Movie",
+    "directed_by": "Mamoru Hosoda",
+    "initial_release_date": "2000-03-17",
+    "genre_id": 23
+  },
+  {
+    "id": 237,
+    "name": "Digital Monster X-Evolution",
+    "directed_by": "Hiroyuki Kakudō",
+    "initial_release_date": "2005-01-03",
+    "genre_id": 1
+  },
+  {
+    "id": 238,
+    "name": "Digna... hasta el último aliento",
+    "directed_by": "Felipe Cazals",
+    "initial_release_date": "2004-12-17",
+    "genre_id": 3
+  },
+  {
+    "id": 239,
+    "name": "Dil Chahta Hai",
+    "directed_by": "Farhan Akhtar",
+    "initial_release_date": "2001-07-24",
+    "genre_id": 11
+  },
+  {
+    "id": 240,
+    "name": "Dinosaur",
+    "directed_by": "Eric Leighton",
+    "initial_release_date": "2000-05-13",
+    "genre_id": 1
+  },
+  {
+    "id": 241,
+    "name": "Dirty Deeds",
+    "directed_by": "David Kendall",
+    "initial_release_date": "2005-08-26",
+    "genre_id": 12
+  },
+  {
+    "id": 242,
+    "name": "Distant Lights",
+    "directed_by": "Hans-Christian Schmid",
+    "initial_release_date": "2003-02-11",
+    "genre_id": 5
+  },
+  {
+    "id": 243,
+    "name": "Divine Intervention",
+    "directed_by": "Elia Suleiman",
+    "initial_release_date": "2002-05-19",
+    "genre_id": 0
+  },
+  {
+    "id": 244,
+    "name": "DOA: Dead or Alive",
+    "directed_by": "Corey Yuen",
+    "initial_release_date": "2006-09-07",
+    "genre_id": 14
+  },
+  {
+    "id": 245,
+    "name": "Dogtown and Z-Boys",
+    "directed_by": "Stacy Peralta",
+    "initial_release_date": "2001-01-19",
+    "genre_id": 3
+  },
+  {
+    "id": 246,
+    "name": "Dogville",
+    "directed_by": "Lars von Trier",
+    "initial_release_date": "2003-05-19",
+    "genre_id": 5
+  },
+  {
+    "id": 247,
+    "name": "Don: The Chase Begins Again",
+    "directed_by": "Farhan Akhtar",
+    "initial_release_date": "2006-10-20",
+    "genre_id": 6
+  },
+  {
+    "id": 248,
+    "name": "Don's Plum",
+    "directed_by": "R.D. Robb",
+    "initial_release_date": "2001-02-10",
+    "genre_id": 27
+  },
+  {
+    "id": 249,
+    "name": "Dopamine",
+    "directed_by": "Mark Decena",
+    "initial_release_date": "2003-01-23",
+    "genre_id": 10
+  },
+  {
+    "id": 250,
+    "name": "Double Take",
+    "directed_by": "George Gallo",
+    "initial_release_date": "2001-01-12",
+    "genre_id": 6
+  },
+  {
+    "id": 251,
+    "name": "Double Whammy",
+    "directed_by": "Tom DiCillo",
+    "initial_release_date": "2001-01-20",
+    "genre_id": 10
+  },
+  {
+    "id": 252,
+    "name": "Downfall",
+    "directed_by": "Oliver Hirschbiegel",
+    "initial_release_date": "2004-09-08",
+    "genre_id": 8
+  },
+  {
+    "id": 253,
+    "name": "Dragon Boys",
+    "directed_by": "Jerry Ciccoritti",
+    "genre_id": 28
+  },
+  {
+    "id": 254,
+    "name": "Dragonlance: Dragons of Autumn Twilight",
+    "directed_by": "Will Meugniot",
+    "initial_release_date": "2008-01-15",
+    "genre_id": 16
+  },
+  {
+    "id": 255,
+    "name": "Drawing Restraint 9",
+    "directed_by": "Matthew Barney",
+    "initial_release_date": "2005-07-01",
+    "genre_id": 29
+  },
+  {
+    "id": 256,
+    "name": "Drowning Mona",
+    "directed_by": "Nick Gomez",
+    "initial_release_date": "2000-01-02",
+    "genre_id": 0
+  },
+  {
+    "id": 257,
+    "name": "Druids",
+    "directed_by": "Jacques Dorfmann",
+    "initial_release_date": "2001-08-31",
+    "genre_id": 15
+  },
+  {
+    "id": 258,
+    "name": "Dumb &amp; Dumberer: When Harry Met Lloyd",
+    "directed_by": "Troy Miller",
+    "initial_release_date": "2003-06-13",
+    "genre_id": 17
+  },
+  {
+    "id": 259,
+    "name": "Duplex",
+    "directed_by": "Danny DeVito",
+    "initial_release_date": "2003-09-26",
+    "genre_id": 0
+  },
+  {
+    "id": 260,
+    "name": "E",
+    "directed_by": "S. P. Jananathan",
+    "initial_release_date": "2006-10-21",
+    "genre_id": 14
+  },
+  {
+    "id": 261,
+    "name": "Earthlings",
+    "directed_by": "Shaun Monson",
+    "genre_id": 3
+  },
+  {
+    "id": 262,
+    "name": "Eight Below",
+    "directed_by": "Frank Marshall",
+    "initial_release_date": "2006-02-17",
+    "genre_id": 15
+  },
+  {
+    "id": 263,
+    "name": "Eight Crazy Nights",
+    "directed_by": "Seth Kearsley",
+    "initial_release_date": "2002-11-27",
+    "genre_id": 25
+  },
+  {
+    "id": 264,
+    "name": "Ek Ajnabee",
+    "directed_by": "Apoorva Lakhia",
+    "initial_release_date": "2005-12-09",
+    "genre_id": 14
+  },
+  {
+    "id": 265,
+    "name": "The Archimedes Principle",
+    "directed_by": "Gerardo Herrero",
+    "initial_release_date": "2004-03-26",
+    "genre_id": 5
+  },
+  {
+    "id": 266,
+    "name": "Election",
+    "directed_by": "Johnnie To",
+    "initial_release_date": "2005-05-14",
+    "genre_id": 6
+  },
+  {
+    "id": 267,
+    "name": "Elektra",
+    "directed_by": "Rob Bowman",
+    "initial_release_date": "2005-01-08",
+    "genre_id": 14
+  },
+  {
+    "id": 268,
+    "name": "Elvis Has Left the Building",
+    "directed_by": "Joel Zwick",
+    "genre_id": 14
+  },
+  {
+    "id": 269,
+    "name": "Employee of the Month",
+    "directed_by": "Mitch Rouse",
+    "initial_release_date": "2004-01-17",
+    "genre_id": 0
+  },
+  {
+    "id": 270,
+    "name": "Empress Chung",
+    "directed_by": "Nelson Shin",
+    "initial_release_date": "2005-08-12",
+    "genre_id": 16
+  },
+  {
+    "id": 271,
+    "name": "En Route",
+    "directed_by": "Jan Krüger",
+    "initial_release_date": "2004-06-17",
+    "genre_id": 5
+  },
+  {
+    "id": 272,
+    "name": "End of the Spear",
+    "directed_by": "Jim Hanon",
+    "genre_id": 30
+  },
+  {
+    "id": 273,
+    "name": "Enron: The Smartest Guys in the Room",
+    "directed_by": "Alex Gibney",
+    "initial_release_date": "2005-04-22",
+    "genre_id": 3
+  },
+  {
+    "id": 274,
+    "name": "Envy",
+    "directed_by": "Barry Levinson",
+    "initial_release_date": "2004-04-30",
+    "genre_id": 0
+  },
+  {
+    "id": 275,
+    "name": "Erin Brockovich",
+    "directed_by": "Steven Soderbergh",
+    "initial_release_date": "2000-03-14",
+    "genre_id": 8
+  },
+  {
+    "id": 276,
+    "name": "Escaflowne",
+    "directed_by": "Kazuki Akane",
+    "initial_release_date": "2000-06-24",
+    "genre_id": 15
+  },
+  {
+    "id": 277,
+    "name": "A Few Days Later",
+    "directed_by": "Niki Karimi",
+    "genre_id": 5
+  },
+  {
+    "id": 278,
+    "name": "Everyman's Feast",
+    "directed_by": "Fritz Lehner",
+    "initial_release_date": "2002-01-25",
+    "genre_id": 5
+  },
+  {
+    "id": 279,
+    "name": "Everyone's Hero",
+    "directed_by": "Christopher Reeve",
+    "initial_release_date": "2006-09-15",
+    "genre_id": 1
+  },
+  {
+    "id": 280,
+    "name": "Everything Is Illuminated",
+    "directed_by": "Liev Schreiber",
+    "initial_release_date": "2005-09-16",
+    "genre_id": 15
+  },
+  {
+    "id": 281,
+    "name": "Exit Wounds",
+    "directed_by": "Andrzej Bartkowiak",
+    "initial_release_date": "2001-03-16",
+    "genre_id": 14
+  },
+  {
+    "id": 282,
+    "name": "Extreme Days",
+    "directed_by": "Eric Hannah",
+    "initial_release_date": "2001-09-28",
+    "genre_id": 10
+  },
+  {
+    "id": 283,
+    "name": "Extreme Ops",
+    "directed_by": "Christian Duguay",
+    "initial_release_date": "2002-11-27",
+    "genre_id": 14
+  },
+  {
+    "id": 284,
+    "name": "Factory Girl",
+    "directed_by": "George Hickenlooper",
+    "initial_release_date": "2006-12-29",
+    "genre_id": 8
+  },
+  {
+    "id": 285,
+    "name": "Fahrenheit 9/11½",
+    "directed_by": "Michael Moore",
+    "genre_id": 3
+  },
+  {
+    "id": 286,
+    "name": "Falcons",
+    "directed_by": "Friðrik Þór Friðriksson",
+    "genre_id": 5
+  },
+  {
+    "id": 287,
+    "name": "Familywala",
+    "directed_by": "Neeraj Vora",
+    "genre_id": 12
+  },
+  {
+    "id": 288,
+    "name": "Fan Chan",
+    "directed_by": "Vitcha Gojiew",
+    "initial_release_date": "2003-10-03",
+    "genre_id": 12
+  },
+  {
+    "id": 289,
+    "name": "Fantastic Mr. Fox",
+    "directed_by": "Wes Anderson",
+    "initial_release_date": "2009-10-14",
+    "genre_id": 16
+  },
+  {
+    "id": 290,
+    "name": "Far Cry",
+    "directed_by": "Uwe Boll",
+    "initial_release_date": "2008-10-02",
+    "genre_id": 14
+  },
+  {
+    "id": 291,
+    "name": "Fat Pizza",
+    "directed_by": "Paul Fenech",
+    "genre_id": 12
+  },
+  {
+    "id": 292,
+    "name": "Fearless",
+    "directed_by": "Ronny Yu",
+    "initial_release_date": "2006-01-26",
+    "genre_id": 8
+  },
+  {
+    "id": 293,
+    "name": "Festival",
+    "directed_by": "Annie Griffin",
+    "initial_release_date": "2005-07-15",
+    "genre_id": 0
+  },
+  {
+    "id": 294,
+    "name": "Festival Express",
+    "directed_by": "Bob Smeaton",
+    "genre_id": 3
+  },
+  {
+    "id": 295,
+    "name": "Fighter in the Wind",
+    "directed_by": "Yang Yun-ho",
+    "initial_release_date": "2004-08-06",
+    "genre_id": 31
+  },
+  {
+    "id": 296,
+    "name": "Filantropica",
+    "directed_by": "Nae Caranfil",
+    "initial_release_date": "2002-03-15",
+    "genre_id": 12
+  },
+  {
+    "id": 297,
+    "name": "Final Fantasy VII: Advent Children",
+    "directed_by": "Tetsuya Nomura",
+    "initial_release_date": "2005-08-31",
+    "genre_id": 23
+  },
+  {
+    "id": 298,
+    "name": "Find Me Guilty",
+    "directed_by": "Sidney Lumet",
+    "initial_release_date": "2006-02-16",
+    "genre_id": 6
+  },
+  {
+    "id": 299,
+    "name": "Finding Nemo",
+    "directed_by": "Andrew Stanton",
+    "initial_release_date": "2003-05-30",
+    "genre_id": 16
+  },
+  {
+    "id": 300,
+    "name": "Finding Neverland",
+    "directed_by": "Marc Forster",
+    "initial_release_date": "2004-09-04",
+    "genre_id": 32
+  },
+  {
+    "id": 301,
+    "name": "First Descent",
+    "directed_by": "Kemp Curly",
+    "initial_release_date": "2005-12-02",
+    "genre_id": 3
+  },
+  {
+    "id": 302,
+    "name": "Flight from Death",
+    "directed_by": "Patrick Shen",
+    "initial_release_date": "2006-09-06",
+    "genre_id": 3
+  },
+  {
+    "id": 303,
+    "name": "Flight of the Phoenix",
+    "directed_by": "John Moore",
+    "initial_release_date": "2004-12-17",
+    "genre_id": 24
+  },
+  {
+    "id": 304,
+    "name": "Flock of Dodos",
+    "directed_by": "Randy Olson",
+    "genre_id": 3
+  },
+  {
+    "id": 305,
+    "name": "Flushed Away",
+    "directed_by": "David Bowers",
+    "initial_release_date": "2006-10-22",
+    "genre_id": 16
+  },
+  {
+    "id": 306,
+    "name": "Fool &amp; Final",
+    "directed_by": "Ahmed Khan",
+    "initial_release_date": "2007-06-01",
+    "genre_id": 12
+  },
+  {
+    "id": 307,
+    "name": "Foolproof",
+    "directed_by": "William Phillips",
+    "initial_release_date": "2003-10-03",
+    "genre_id": 14
+  },
+  {
+    "id": 308,
+    "name": "Four Brothers",
+    "directed_by": "John Singleton",
+    "initial_release_date": "2005-08-12",
+    "genre_id": 14
+  },
+  {
+    "id": 309,
+    "name": "Frankenfish",
+    "directed_by": "Mark A.Z. Dippé",
+    "initial_release_date": "2004-10-09",
+    "genre_id": 14
+  },
+  {
+    "id": 310,
+    "name": "Free Jimmy",
+    "directed_by": "Christopher Nielsen",
+    "initial_release_date": "2006-04-21",
+    "genre_id": 23
+  },
+  {
+    "id": 311,
+    "name": "Free Zone",
+    "directed_by": "Amos Gitai",
+    "initial_release_date": "2005-05-19",
+    "genre_id": 12
+  },
+  {
+    "id": 312,
+    "name": "Frida",
+    "directed_by": "Julie Taymor",
+    "initial_release_date": "2002-08-29",
+    "genre_id": 8
+  },
+  {
+    "id": 313,
+    "name": "Friday After Next",
+    "directed_by": "Marcus Raboy",
+    "initial_release_date": "2002-11-22",
+    "genre_id": 17
+  },
+  {
+    "id": 314,
+    "name": "Friday Night Lights",
+    "directed_by": "Peter Berg",
+    "initial_release_date": "2004-10-06",
+    "genre_id": 14
+  },
+  {
+    "id": 315,
+    "name": "FRO - The Movie",
+    "directed_by": "Brad Gashler",
+    "genre_id": 10
+  },
+  {
+    "id": 316,
+    "name": "Fuck",
+    "directed_by": "Steve Anderson",
+    "initial_release_date": "2005-11-07",
+    "genre_id": 3
+  },
+  {
+    "id": 317,
+    "name": "Fullmetal Alchemist the Movie: Conqueror of Shamballa",
+    "directed_by": "Seiji Mizushima",
+    "initial_release_date": "2005-07-23",
+    "genre_id": 23
+  },
+  {
+    "id": 318,
+    "name": "Fulltime Killer",
+    "directed_by": "Johnnie To",
+    "initial_release_date": "2001-08-03",
+    "genre_id": 14
+  },
+  {
+    "id": 319,
+    "name": "Fun with Dick and Jane",
+    "directed_by": "Dean Parisot",
+    "initial_release_date": "2005-12-21",
+    "genre_id": 6
+  },
+  {
+    "id": 320,
+    "name": "Gagamboy",
+    "directed_by": "Erik Matti",
+    "initial_release_date": "2004-01-01",
+    "genre_id": 14
+  },
+  {
+    "id": 321,
+    "name": "Gallipoli",
+    "directed_by": "Tolga Örnek",
+    "initial_release_date": "2005-03-18",
+    "genre_id": 3
+  },
+  {
+    "id": 322,
+    "name": "Gangs of New York",
+    "directed_by": "Martin Scorsese",
+    "initial_release_date": "2002-12-09",
+    "genre_id": 6
+  },
+  {
+    "id": 323,
+    "name": "Garam Masala",
+    "directed_by": "Priyadarshan",
+    "initial_release_date": "2005-11-02",
+    "genre_id": 12
+  },
+  {
+    "id": 324,
+    "name": "George Washington",
+    "directed_by": "David Gordon Green",
+    "initial_release_date": "2000-09-29",
+    "genre_id": 13
+  },
+  {
+    "id": 325,
+    "name": "Georgia Rule",
+    "directed_by": "Garry Marshall",
+    "initial_release_date": "2007-05-10",
+    "genre_id": 10
+  },
+  {
+    "id": 326,
+    "name": "Get Rich or Die Tryin'",
+    "directed_by": "Jim Sheridan",
+    "initial_release_date": "2005-11-09",
+    "genre_id": 13
+  },
+  {
+    "id": 327,
+    "name": "Ghost in the Shell: Solid State Society",
+    "directed_by": "Kenji Kamiyama",
+    "initial_release_date": "2006-09-01",
+    "genre_id": 23
+  },
+  {
+    "id": 328,
+    "name": "Ghost Rider",
+    "directed_by": "Mark Steven Johnson",
+    "initial_release_date": "2007-01-15",
+    "genre_id": 15
+  },
+  {
+    "id": 329,
+    "name": "Ghosts of Mars",
+    "directed_by": "John Carpenter",
+    "initial_release_date": "2001-08-24",
+    "genre_id": 15
+  },
+  {
+    "id": 330,
+    "name": "Gie",
+    "directed_by": "Riri Riza",
+    "initial_release_date": "2005-07-14",
+    "genre_id": 8
+  },
+  {
+    "id": 331,
+    "name": "Gigli",
+    "directed_by": "Martin Brest",
+    "initial_release_date": "2003-07-27",
+    "genre_id": 33
+  },
+  {
+    "id": 332,
+    "name": "Glastonbury",
+    "directed_by": "Julien Temple",
+    "initial_release_date": "2006-04-14",
+    "genre_id": 3
+  },
+  {
+    "id": 333,
+    "name": "Glastonbury Anthems",
+    "directed_by": "Gavin Taylor",
+    "genre_id": 3
+  },
+  {
+    "id": 334,
+    "name": "Global Heresy",
+    "directed_by": "Sidney J. Furie",
+    "initial_release_date": "2002-09-03",
+    "genre_id": 12
+  },
+  {
+    "id": 335,
+    "name": "God Grew Tired of Us",
+    "directed_by": "Christopher Dillon Quinn",
+    "initial_release_date": "2006-09-04",
+    "genre_id": 3
+  },
+  {
+    "id": 336,
+    "name": "God on My Side",
+    "directed_by": "Andrew Denton",
+    "initial_release_date": "2006-11-02",
+    "genre_id": 3
+  },
+  {
+    "id": 337,
+    "name": "Varalaru",
+    "directed_by": "K. S. Ravikumar",
+    "initial_release_date": "2006-02-24",
+    "genre_id": 14
+  },
+  {
+    "id": 338,
+    "name": "Going the Distance",
+    "directed_by": "Mark Griffiths",
+    "initial_release_date": "2004-08-20",
+    "genre_id": 12
+  },
+  {
+    "id": 339,
+    "name": "Going Upriver",
+    "directed_by": "George Butler",
+    "initial_release_date": "2004-09-14",
+    "genre_id": 3
+  },
+  {
+    "id": 340,
+    "name": "Goodbye, Dragon Inn",
+    "directed_by": "Tsai Ming-liang",
+    "initial_release_date": "2003-12-12",
+    "genre_id": 10
+  },
+  {
+    "id": 341,
+    "name": "Goya's Ghosts",
+    "directed_by": "Miloš Forman",
+    "initial_release_date": "2006-11-08",
+    "genre_id": 8
+  },
+  {
+    "id": 342,
+    "name": "Greenfingers",
+    "directed_by": "Joel Hershman",
+    "initial_release_date": "2001-09-14",
+    "genre_id": 10
+  },
+  {
+    "id": 343,
+    "name": "Grill Point",
+    "directed_by": "Andreas Dresen",
+    "initial_release_date": "2002-02-12",
+    "genre_id": 5
+  },
+  {
+    "id": 344,
+    "name": "Grilled",
+    "directed_by": "Jason Ensler",
+    "initial_release_date": "2006-07-11",
+    "genre_id": 0
+  },
+  {
+    "id": 345,
+    "name": "Grizzly Falls",
+    "directed_by": "Stewart Raffill",
+    "initial_release_date": "2004-06-28",
+    "genre_id": 15
+  },
+  {
+    "id": 346,
+    "name": "Grizzly Man",
+    "directed_by": "Werner Herzog",
+    "initial_release_date": "2005-01-24",
+    "genre_id": 3
+  },
+  {
+    "id": 347,
+    "name": "GRODMIN",
+    "directed_by": "Jim Horwitz",
+    "genre_id": 34
+  },
+  {
+    "id": 348,
+    "name": "Gudumba Shankar",
+    "directed_by": "Veera Shankar",
+    "initial_release_date": "2004-09-09",
+    "genre_id": 14
+  },
+  {
+    "id": 349,
+    "name": "Che: Part Two",
+    "directed_by": "Steven Soderbergh",
+    "initial_release_date": "2008-05-21",
+    "genre_id": 8
+  },
+  {
+    "id": 350,
+    "name": "Gunner Palace",
+    "directed_by": "Michael Tucker",
+    "initial_release_date": "2005-03-04",
+    "genre_id": 3
+  },
+  {
+    "id": 351,
+    "name": "Guru",
+    "directed_by": "Mani Ratnam",
+    "initial_release_date": "2007-01-12",
+    "genre_id": 8
+  },
+  {
+    "id": 352,
+    "name": "Gypsy 83",
+    "directed_by": "Todd Stephens",
+    "genre_id": 13
+  },
+  {
+    "id": 353,
+    "name": "Haiku Tunnel",
+    "directed_by": "Jacob Kornbluth",
+    "genre_id": 0
+  },
+  {
+    "id": 354,
+    "name": "Making Babies",
+    "directed_by": "Daniel Lind Lagerlöf",
+    "initial_release_date": "2001-01-29",
+    "genre_id": 5
+  },
+  {
+    "id": 355,
+    "name": "Hanuman",
+    "directed_by": "V.G. Samant",
+    "initial_release_date": "2005-10-21",
+    "genre_id": 16
+  },
+  {
+    "id": 356,
+    "name": "Hanuman Junction",
+    "directed_by": "M.Raja",
+    "initial_release_date": "2001-12-21",
+    "genre_id": 14
+  },
+  {
+    "id": 357,
+    "name": "I Love New Year",
+    "directed_by": "Radhika Rao",
+    "initial_release_date": "2013-12-30",
+    "genre_id": 35
+  },
+  {
+    "id": 358,
+    "name": "Harry Potter and the Chamber of Secrets",
+    "directed_by": "Chris Columbus",
+    "initial_release_date": "2002-11-03",
+    "genre_id": 15
+  },
+  {
+    "id": 359,
+    "name": "Harry Potter and the Half-Blood Prince",
+    "directed_by": "David Yates",
+    "initial_release_date": "2009-07-06",
+    "genre_id": 15
+  },
+  {
+    "id": 360,
+    "name": "Le Havre",
+    "directed_by": "Aki Kaurismäki",
+    "initial_release_date": "2011",
+    "genre_id": 5
+  }
+]

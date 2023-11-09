@@ -1,0 +1,11 @@
+version: '3'
+
+services:
+
+  bash:
+    image: edis-python:round-10
+    build:
+      dockerfile: ./dockerfiles/python.Dockerfile
+    command: bash
+    volumes:
+      - ./app:/home/app
