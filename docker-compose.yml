@@ -2,10 +2,19 @@ version: '3'
 
 services:
 
-  bash:
+  # TO RUN YOUR CODE:
+
+  # docker compose run --rm app
+  # docker compose run --rm app python -B main.py
+  # docker compose run --rm app python -B main.py --review=0
+
+  # bash first   : docker compose run --rm app bash
+  # and then app : python -B main.py
+
+  app:
     image: edis-python:round-10
     build:
       dockerfile: ./dockerfiles/python.Dockerfile
-    command: bash
+    command: python -B main.py
     volumes:
       - ./app:/home/app
